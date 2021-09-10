@@ -1,0 +1,28 @@
+main {
+    font-weight: bold;
+  }
+  
+  div:hover {
+    color: red;
+  }
+  
+  .asteroid {
+    border: 1px solid green;
+    width: 200px;
+  }
+  
+  p.big {
+    font-weight: normal;
+    border: 0px;
+    color: blue;
+    background-color: yellow;
+  }
+  
+  .b329 {
+    border: 0px;
+    color: blue;
+  }
+  
+  p:hover {
+    color: green;
+  }
